@@ -80,13 +80,13 @@ Use the following examples as reference for the ideal answer style.
 
 ## Future Development
 
-- **Performance Optimization**: Investigate techniques to enhance the performance and efficiency of chunking, embedding, and reranking processes, especially for larger setups involving over 100,000 chunks, for wich utilizing the Vector database/index results will improve scalability and speed.
+- **Performance Optimization**: Investigate techniques to enhance the performance and efficiency of chunking, embedding, and reranking processes, especially for larger setups involving over 100,000 chunks, for which utilizing the Vector database/index results will improve scalability and speed.
 
-- **OOP implementation**: Develop a class structure to organize and manage the various components and processes involved in the system's tasks. This will improve code modularity, reusability, and maintainability.
+- **Structuring**: Develop a class structure to organize and manage the various components and processes involved in the system's tasks. This will improve code modularity, reusability, and maintainability.
 
 - **Expansion of Data Sources**: Integrate additional datasets to enrich the content available for retrieval. By expanding the variety and coverage of articles, the system can provide more comprehensive and diverse responses to user queries.
 
-- **Fine-Tuning the LLM**: Explore opportunities for fine-tuning the LLM to better suit the specific requirements of the system, potentially improving its accuracy and relevance in generating responses.
+- **Fine-Tuning the LLM**: Explore opportunities for fine-tuning LLM to better suit specific requirements of the system, potentially improving its accuracy and relevance in generating responses.
 
 - **Evaluation of Answers**: Employ another LLM to assess and rate the responses, providing valuable feedback for further refinement.
 
@@ -94,5 +94,5 @@ Use the following examples as reference for the ideal answer style.
 
 - **Handling Irrelevant Queries**: Develop mechanisms to identify and appropriately handle queries that are irrelevant to the articles dataset, ensuring the system provides accurate and helpful responses even in such cases.
 
-- **User Interface Development**: Create a user-friendly interface to streamline interaction with the system. This should enhance the overall usability and accessibility of the system.
+- **User Interface Development**: Create user-friendly interface to streamline interaction with the system. This should enhance the overall usability and accessibility of the system.
 
