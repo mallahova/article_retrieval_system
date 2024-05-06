@@ -80,7 +80,7 @@ Use the following examples as reference for the ideal answer style.
 
 ## Future Development
 
-- **Performance Optimization**: Investigate techniques to enhance the performance and efficiency of chunking, embedding, and reranking processes, especially for larger setups involving over 100,000 chunks, for wich utilizing the Vector database/index results with improved scalability and speed.
+- **Performance Optimization**: Investigate techniques to enhance the performance and efficiency of chunking, embedding, and reranking processes, especially for larger setups involving over 100,000 chunks, for wich utilizing the Vector database/index results will improve scalability and speed.
 
 - **OOP implementation**: Develop a class structure to organize and manage the various components and processes involved in the system's tasks. This will improve code modularity, reusability, and maintainability.
 
