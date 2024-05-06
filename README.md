@@ -9,5 +9,5 @@ The project utilizes the [1300+ Towards DataScience Medium Articles Dataset](htt
 ## Setup
 To run the Article Retrieval System, follow these steps:
 1. Sign in or register at kaggle.com.
-2. Open the [Gemma model card](https://www.kaggle.com/models/google/gemma/) and select "Request Access."
+2. Open the [Gemma model card](https://www.kaggle.com/models/google/gemma/) and select "Request Access"
 3. Run the Article Retrieval System in a Kaggle Notebook environment, which provides GPU T4 x2 accelerator. You can copy my notebook [here](https://www.kaggle.com/code/alisamalakhova/article-retrieval-system-with-gemma-and-langchain).
