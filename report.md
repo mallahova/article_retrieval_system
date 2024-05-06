@@ -80,7 +80,7 @@ Use the following examples as reference for the ideal answer style.
 
 ## Future Development
 
-- **Performance Optimization**: Investigate techniques to enhance the performance and efficiency of chunking, embedding, and reranking processes, especially for larger setups involving over 100,000 chunks. Consider utilizing the Vector database/index for improved scalability and speed.
+- **Performance Optimization**: Investigate techniques to enhance the performance and efficiency of chunking, embedding, and reranking processes, especially for larger setups involving over 100,000 chunks, for wich utilizing the Vector database/index results with improved scalability and speed.
 
 - **OOP implementation**: Develop a class structure to organize and manage the various components and processes involved in the system's tasks. This will improve code modularity, reusability, and maintainability.
 
@@ -95,3 +95,4 @@ Use the following examples as reference for the ideal answer style.
 - **Handling Irrelevant Queries**: Develop mechanisms to identify and appropriately handle queries that are irrelevant to the articles dataset, ensuring the system provides accurate and helpful responses even in such cases.
 
 - **User Interface Development**: Create a user-friendly interface to streamline interaction with the system. This should enhance the overall usability and accessibility of the system.
+
