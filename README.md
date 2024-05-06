@@ -13,3 +13,6 @@ To run the Article Retrieval System, follow these steps:
 3. (Optional) Verify your phone number [here](https://www.kaggle.com/settings) to be able to use the  GPU T4 x2 accelerator.
 4. Run the Article Retrieval System in a Kaggle Notebook environment. You can copy the notebook [here](https://www.kaggle.com/code/alisamalakhova/article-retrieval-system-with-gemma-and-langchain).
 5. (Optional) Change the accelerator to GPU T4 x2 in Session options
+
+## Article Retrieval System: Report
+The project report is located in the report.md file.
